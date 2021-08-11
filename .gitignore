@@ -1,0 +1,6 @@
+
+#node modules
+artifacts
+cache
+secrets
+node_modules
